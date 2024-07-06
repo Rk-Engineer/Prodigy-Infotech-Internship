@@ -10,7 +10,7 @@ This repository contains code samples and projects involving HTML, CSS, JavaScri
 
 ## How to Use
 1. Clone the Repository: Start by cloning this repository to your local machine using Git.
-git clone https://github.com/NIRMAL1508/PRODIGY_WORK.git
+https://github.com/Rk-Engineer/Prodigy-Infotech-Internship.git
 
 2. Navigate to Desired Directory: Depending on what you're interested in, navigate to the respective directory (e.g., HTML, CSS, JavaScript).
 
